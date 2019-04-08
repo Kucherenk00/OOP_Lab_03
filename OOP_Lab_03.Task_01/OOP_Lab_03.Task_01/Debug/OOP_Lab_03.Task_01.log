@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\vs\oop\github\oop_lab_03\oop_lab_03.task_01\oop_lab_03.task_01\source.cpp(116): warning C4715: operation: значение возвращается не при всех путях выполнения
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Cone::~Cone(void)" (??1Cone@@QAE@XZ) в функции "public: void * __thiscall Cone::`scalar deleting destructor'(unsigned int)" (??_GCone@@QAEPAXI@Z)
+C:\VS\OOP\GitHub\OOP_Lab_03\OOP_Lab_03.Task_01\Debug\OOP_Lab_03.Task_01.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
